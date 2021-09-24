@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PoetryApp Without API</string>
+    <string name="share">Share</string>
+    <string name="ai_hud_dushman_bh_mujh_ko_h_nd_n_ch_hiye">ai ḳhudā dushman bhī mujh ko ḳhāndānī chāhiye</string>
+    <string name="sirf_hanjar_h_nah_kho_me_paan_ch_hiye">sirf ḳhanjar hī nahīñ āñkhoñ meñ paanī chāhiye</string>
+    <string name="gazal">Gazal</string>
+    <string name="rahat_indori">Rahat Indori</string>
+    <string name="dushmano_k_bh_raa_e_l_jaa_e">dushmanoñ kī bhī raa.e lī jaa.e</string>
+    <string name="dost_jab_kis_se_k_jaa_e">dostī jab kisī se kī jaa.e</string>
+</resources>
